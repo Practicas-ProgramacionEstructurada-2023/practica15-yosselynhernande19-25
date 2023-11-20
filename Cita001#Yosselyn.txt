@@ -1,0 +1,4 @@
+Nombre del Paciente: Yosselyn
+Fecha de Cita: 23/11/2023 14:00:00
+Razón de Consulta: Limpieza Dental
+Costo de Consulta: 20
